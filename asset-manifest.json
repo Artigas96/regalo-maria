@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.46809b5e.css",
+    "main.js": "./static/js/main.e20314fe.js",
+    "static/media/bauble-christmas-svgrepo-com.svg": "./static/media/bauble-christmas-svgrepo-com.2f4f4708f85fc37039f7.svg",
+    "static/media/christmas-tree-svgrepo-com.svg": "./static/media/christmas-tree-svgrepo-com.f59475899d41c4588ac7.svg",
+    "static/media/santa-claus-svgrepo-com.svg": "./static/media/santa-claus-svgrepo-com.8cbfd480b5bc63a250da.svg",
+    "static/media/gift-svgrepo-com.svg": "./static/media/gift-svgrepo-com.b453234104cc50cf7d1c.svg",
+    "index.html": "./index.html",
+    "main.46809b5e.css.map": "./static/css/main.46809b5e.css.map",
+    "main.e20314fe.js.map": "./static/js/main.e20314fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46809b5e.css",
+    "static/js/main.e20314fe.js"
+  ]
+}
